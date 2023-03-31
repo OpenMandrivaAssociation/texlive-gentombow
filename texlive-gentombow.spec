@@ -1,6 +1,6 @@
 Name:		texlive-gentombow
 Version:	64333
-Release:	1
+Release:	2
 Summary:	Generate Japanese-style crop marks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gentombow
