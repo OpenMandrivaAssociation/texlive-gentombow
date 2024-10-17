@@ -3,7 +3,7 @@ Version:	64333
 Release:	2
 Summary:	Generate Japanese-style crop marks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gentombow
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gentombow
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gentombow.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gentombow.doc.r%{version}.tar.xz
